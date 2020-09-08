@@ -1,0 +1,76 @@
+body {
+    
+    background: rgb(185, 185, 185);
+}
+
+
+/*Page index bienvenu*/
+
+.desc{
+    color:black
+}
+.card-body{
+    background-color: rgb(39, 38, 38);
+}
+
+h1{
+    display: flex;
+    color:white;
+    justify-content: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.bout_href{
+display: flex;
+flex-direction: column;
+text-align: center;
+}
+
+.form-control{
+    background-color: transparent;
+    border: 1px solid #F0BD5B;
+border-radius: .45rem;
+}
+
+label{
+    color:white;
+}
+ .btn-dark{
+     margin-top: 5%;
+     border: 1px solid #F0BD5B;
+ }
+ .btn-dark:hover {
+    color: #fff;
+    background-color: #F0BD5B;
+    border-color: #F0BD5B;
+}
+
+.autre{
+    display: flex;
+    flex-direction: center;
+    flex-direction: column;
+    height: 200px;
+    width: auto;
+  position: relative;
+  border: 2px solid #F0BD5B; 
+  align-items: center;
+}
+
+.btn-info{
+    border: 1px solid #F0BD5B;
+    background-color:rgb(53, 53, 53) 
+}
+.btn-info:hover {
+    color: #fff;
+    background-color: #F0BD5B;
+    border-color: #F0BD5B;
+}
+
+h2{
+    color: white;
+}
+.choix{
+    color: white;
+}
